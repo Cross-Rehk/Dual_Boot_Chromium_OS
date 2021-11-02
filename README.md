@@ -82,7 +82,7 @@ Same steps as in option 1
 
 
 ## 🔗 Links
-[![multi_boot](https://img.shields.io/badge/multi_boot-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raw.githubusercontent.com/shrikant2002/ChromeOS/master/multi_install.sh/)
+[![multi_boot](https://img.shields.io/badge/multi_boot-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/12A8v-v809bsbZrRjbynSC_S68mHQXtdM/view?usp=drivesdk/)
 
 [![MEGA](https://img.shields.io/badge/script-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sebanc/brunch/releases/download/r91-stable-20210620/brunch_r91_stable_20210620.tar.gz/)
 
