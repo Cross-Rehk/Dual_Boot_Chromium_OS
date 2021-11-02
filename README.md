@@ -112,6 +112,6 @@ I cannot see my internal drives mounted so how can I mount it?
 in boot entry after cros_secure cros_debug add options=mount_drives
 
 
-special Thanks to 
+Special Thanks to 
 Sebanc
 Shrikant
