@@ -15,8 +15,7 @@ Note: I am not responsible for any data loss. Please follow this guide carefully
 
 #### Dual Boot Chromium_OS with Windows      
 Download latest version of Chromium_OS         
-You can download the Latest Version from         
-1. https://wayne-os.com/category/release/        
+You can download the Latest Version from the Links below                
 Create a live USB of linux mint or ubuntu(arch didn't tried yet)         
 Open disk manager and shrink any volume of minimum 24GB        
 Create new partition format in ntfs        
@@ -25,11 +24,11 @@ Now reboot and boot your PC with the live USB
 ### Option 1 : Works on debian based distro        
 
 Download the Chromium OS and extract it.       
-Download this file(    ) and Extract it.           
+Download this file( Script) and Extract it.       
 Now run the following command (MAKE SURE THAT YOU ENTER THE PARTITION CORRECTLY)          
 Right click on an empty area and select Open in terminal         
 ```bash
-  tar zxvf script.tar.gz
+  tar zxvf brunch_r91_stable_20210620.tar.gz
 ```             
 Identify the partition you intend to use for multi_install, you can run 
 ```bash
@@ -64,7 +63,7 @@ Now reboot your PC and choose Chromium_OS.
 
 ### Option 2 : Works on Linux Mint & Ubuntu            
 Download the Chromium OS and extract it.             
-Download this file(    ) and Extract it.               
+Download this file( Script) and Extract it.               
 Download multi_install.sh(Thanks to shrikant)                  
 Right click on an empty area and select Open in terminal
 ```bash              
@@ -79,6 +78,17 @@ Same steps as in option 1
 
 
 
+
+
+
+## 🔗 Links
+[![multi_boot](https://img.shields.io/badge/multi_boot-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raw.githubusercontent.com/shrikant2002/ChromeOS/master/multi_install.sh/)
+
+[![MEGA](https://img.shields.io/badge/script-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sebanc/brunch/releases/download/r91-stable-20210620/brunch_r91_stable_20210620.tar.gz/)
+
+[![WAYNE](https://img.shields.io/badge/chromium_option_1-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wayne-os.com/category/release/)
+
+[![ARNOLD](https://img.shields.io/badge/chromium_option_2-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://chromium.arnoldthebat.co.uk/)
 
 
 
