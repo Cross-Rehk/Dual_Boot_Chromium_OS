@@ -119,6 +119,10 @@ Then, sign in with your Google account in Wayne OS.
 
 Yes, it is absolutely safe unless you mess with boot entry or not compitable CPU
 
+#### which Chromium option is more preferred?
+
+Wayne OS test buils is most preferred,as it is latest version.
+
 #### Why only 1 partitions are required to dualboot Chromium OS whereas the image has 13 partitions?
 
 These partitions are in loop on selected partition.
