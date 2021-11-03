@@ -23,7 +23,7 @@ Now reboot and boot your PC with the live USB
 
 ### Option 1 : Works on debian based distro        
 
-Download the Chromium OS and extract it.       
+Download the Chromium OS and extract it.                   
 Download this file( Script) and Extract it.       
 Now run the following command (MAKE SURE THAT YOU ENTER THE PARTITION CORRECTLY)          
 Right click on an empty area and select Open in terminal         
@@ -62,7 +62,8 @@ Now reboot your PC and choose Chromium_OS.
 
 
 ### Option 2 : Works on Linux Mint & Ubuntu            
-Download the Chromium OS and extract it.             
+Download the Chromium OS and extract it.                
+Rename it to rammus_recovery.bin
 Download this file( Script) and Extract it.               
 Download multi_install.sh(Thanks to shrikant)                  
 Right click on an empty area and select Open in terminal
@@ -141,7 +142,9 @@ Yes, you will get everything
 
 #### I cannot see my internal drives mounted so how can I mount it?
 
-In boot entry after cros_secure cros_debug add options=mount_drives                              
+In boot entry after cros_secure cros_debug add options=mount_drives  
+
+#### Scripts will be modified soon to make installation easy.!.
                  
                                                                    
 ## Contributing
