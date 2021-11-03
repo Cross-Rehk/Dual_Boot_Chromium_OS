@@ -101,7 +101,11 @@ Same steps as in option 1
 
 
                
-
+### Signing in Google account in Wayne OS
+Joining Google Groups                                              
+In order to sign in to Wayne OS by Google account,                                                                                                                   
+please add your Google account to google-browser-signin-testaccounts@chromium.org.                                 
+Then, sign in with your Google account in Wayne OS.
                    
 
 
