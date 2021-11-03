@@ -91,7 +91,7 @@ Same steps as in option 1
 
 [![ARNOLD](https://img.shields.io/badge/chromium_option_2-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://chromium.arnoldthebat.co.uk/)
 
-[![Flint](https://img.shields.io/badge/chromium_option_3-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1-DKmLWU0VxZXmDVejV2SkKCF4nBKlo_J/view/)
+[![Flint](https://img.shields.io/badge/chromium_option_3-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1-DKmLWU0VxZXmDVejV2SkKCF4nBKlo_J/view)
 
 
 
