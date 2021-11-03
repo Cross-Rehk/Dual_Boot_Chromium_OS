@@ -119,7 +119,7 @@ Then, sign in with your Google account in Wayne OS.
 
 Yes, it is absolutely safe unless you mess with boot entry or not compitable CPU
 
-#### which Chromium option is more preferred?
+#### Which Chromium option is more preferred?
 
 Wayne OS test buils is most preferred,as it is latest version.
 
