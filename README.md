@@ -111,7 +111,7 @@ Then, sign in with your Google account in Wayne OS.
                    
 
 
-
+## There is storage bug will  be fixed soon.
 
 ## FAQ
 
